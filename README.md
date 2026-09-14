@@ -43,7 +43,7 @@ Summary of landuse and landcover analysis
 Summary of flood risk/susceptibility analysis
 Summary of flood impact model and analysis
 
-## Business Value
+## BUSINESS VALUE
 • Aids in Further field development plans
 
 • Quick decision making of  Emergency Response
@@ -52,7 +52,5 @@ Summary of flood impact model and analysis
 
 • Cost avoidance
 
-
 ## CONCLUSIONS:
-The study successfully deployed remote sensing and geospatial technologies to map baseline land use and landcover and generate a flood risk/susceptibility model. This study identified and presented these findings:
-The flood risk/susceptibility and flood impact models generated for this study are static models, basic and sufficient for its purpose. More factors can still be integrated depending on the availability of required datasets.
+The study successfully deployed remote sensing and geospatial technologies to map baseline land use and landcover and generate a flood risk/susceptibility model. This study identified and presented these findings: This study identified the villages of **Amanagbene, Angala-An, Egbenegbene, Kalatuo Island, Obrigbene, Tamigbe, and Zideyeregbene, along with the Okpokunou 001 and Toumo 001 wells**, as flood-affected. Utilizing remote sensing and geospatial technologies, it mapped land use and generated a flood risk model based on a 2.7-meter high water mark from 2024. The flood risk/susceptibility and flood impact models generated for this study are static models, basic and sufficient for its purpose. More factors can still be integrated depending on the availability of required datasets.
