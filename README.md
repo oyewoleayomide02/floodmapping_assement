@@ -17,9 +17,23 @@ The objectives of this study are:
 
 ## STUDY AREA AND DATA AVAILABILITY:
 The study area description
-   
+
+<img width="510" height="396" alt="image" src="https://github.com/user-attachments/assets/b07a2890-78ee-4ab8-9ba4-f24a9cefc00f" />
+
 ## DATASETS USED IN STUDY:
 The description of datasets used for this project. 
+
+
+<img width="318" height="231" alt="image" src="https://github.com/user-attachments/assets/abbb8de6-6e76-4ae8-aa7e-f5a54cfac536" />
+
+<img width="315" height="228" alt="image" src="https://github.com/user-attachments/assets/4df06136-e313-4588-bc66-8b0b912e9c3f" />
+
+<img width="308" height="227" alt="image" src="https://github.com/user-attachments/assets/a859960b-193f-45f1-af8a-7b19529c8203" />
+
+<img width="315" height="219" alt="image" src="https://github.com/user-attachments/assets/5eaad69b-e795-4118-b596-c3f976b509c9" />
+
+
+
 
 ## METHODOLOGY:
 DEM extraction from Elevation data. 
@@ -28,6 +42,15 @@ Summary of baseline settlements and infrastructure
 Summary of landuse and landcover analysis
 Summary of flood risk/susceptibility analysis
 Summary of flood impact model and analysis
+
+## Business Value
+• Aids in Further field development plans
+
+• Quick decision making of  Emergency Response
+
+• Protection and Ensure smooth operations; Helps to Identify and prevent potential disasters before starting the project
+
+• Cost avoidance
 
 
 ## CONCLUSIONS:
