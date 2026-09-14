@@ -36,12 +36,18 @@ The description of datasets used for this project.
 
 
 ## METHODOLOGY:
-DEM extraction from Elevation data. 
-The weighted overlay evaluation for risk/susceptibility to flooding model.
-Summary of baseline settlements and infrastructure
-Summary of landuse and landcover analysis
-Summary of flood risk/susceptibility analysis
-Summary of flood impact model and analysis
+
+• DEM extraction from Elevation data. 
+
+• The weighted overlay evaluation for risk/susceptibility to flooding model.
+
+• Summary of baseline settlements and infrastructure
+
+• Summary of landuse and landcover analysis
+
+• Summary of flood risk/susceptibility analysis
+
+• Summary of flood impact model and analysis
 
 ## BUSINESS VALUE
 • Aids in Further field development plans
